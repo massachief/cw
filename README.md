@@ -1,2 +1,11 @@
 # cw
-dedicated to post codewars task solutions 
+dedicated to post [Codewars](https://www.codewars.com/) task solutions 
+
+# lang's
+- Java
+
+# navigation
+Every task is sorted onlyby it's difficulty
+
+# about: 
+I feel interested in backend programming, so it is a great idea to do some codewars katas and track them here.
